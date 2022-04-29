@@ -1,7 +1,8 @@
 # bank-account-kata
 Bank Account Kata for Interview
 
-use on command line : java -jar bank-account-kata.jar to launch bank-account-kata
+use > java -jar bank-account-kata.jar
+to launch bank-account-kata
 
 Bank account kata Think of your personal bank account experience When in doubt, go for the simplest solution Requirements
 
